@@ -4,12 +4,11 @@ Poject PBL (project based learning) Universidade Federal de Itajubá
 implementation of an embedded project using pic18f4550 as a prototyping platform  (hardware and software)
 
 copyright: 
-*Karen McFadden 
-*Lucas Wacho Precioso 
-*Thales Maia Mendonça Negrão - Thalesnegrao@gmail.com
+- Karen McFadden 
+- Lucas Wacho Precioso 
+- Thales Maia Mendonça Negrão - Thalesnegrao@gmail.com
 
 embedded systems using PIC model 18F4550 44fin TQFP
-
 imput voltage : 7~15 V (recommended 9v)
 
 Components:
